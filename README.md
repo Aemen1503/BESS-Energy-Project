@@ -64,9 +64,7 @@ _Masters in Electronics, Jamia Millia Islamia_
 www.linkedin.com/in/amyamy-6469361b6
 aemenparveen15@gmail.com
 
-
-
 ## 📄 Full Report
-file:///C:/Users/91729/Desktop/Msc%20elec/BESS%20DATA/Final%20Report%20BESS.pdf
+A detailed report titled **"BESS Data Analysis"** summarizing all datasets, analysis methods, key findings, and observations is available below:
 
-A detailed report summarizing all datasets and findings is available [here](Final%20Report%20BESS.pdf).
+📥 [Download BESS Data Analysis.pdf](./BESS%20data%20ANALYSIS.pdf)
