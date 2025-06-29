@@ -53,7 +53,9 @@ This project presents a comprehensive analysis of real and synthetic datasets re
 Click below to directly open any notebook:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aemen1503/BESS-Energy-Project/blob/main/BESSanalysis1.ipynb)
-
+ 📊 [BESS Charging/Discharging Analysis (Notebook 1)](https://colab.research.google.com/drive/1g5j7Zz2PzgNYZZ2B2DoLlxjwcQnas7ib)  
+- 🌡️ [Hourly Charging Pattern Analysis (Notebook 2)](https://colab.research.google.com/drive/1xJccUGvO71RCd4fPULiwMAJUKJOfmA6I)  
+- 🔋 [Solar Energy Generation & BESS Billing (Notebook 3)](https://colab.research.google.com/drive/1rxuPbp9elRvuBBQhKa5emqsC0-s9n5OE)
 ---
 
 ✍️ Author
@@ -65,5 +67,6 @@ aemenparveen15@gmail.com
 
 
 ## 📄 Full Report
+file:///C:/Users/91729/Desktop/Msc%20elec/BESS%20DATA/Final%20Report%20BESS.pdf
 
 A detailed report summarizing all datasets and findings is available [here](Final%20Report%20BESS.pdf).
